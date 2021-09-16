@@ -1,0 +1,189 @@
+body {
+	padding-top: 105px;
+	background-color: #eeeeee;
+}
+
+footer {
+	background-color: #ffffff;
+	padding: 30px 0 0 0;
+	margin-bottom: 0;
+}
+
+.conteudo {
+	padding: 20px 30px;
+}
+
+.navbar-dark .navbar-toggler {
+	color: #ffffff !important;
+	border-color: #ffffff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: #ffffff !important;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link {
+	font-weight: bold;
+}
+
+.logo-cenex {
+	margin-right: 30px;
+}
+
+.login {
+	color: #ffffff !important;
+}
+
+.ntw-bg {
+	background-color: #591df1;
+	z-index: 999;
+}
+
+.nav li {
+	margin-right: 10px;
+}
+
+.nav button i {
+	margin-left: 10px;
+}
+
+.nav-top {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.list-group i {
+	margin-right: 10px;
+}
+
+.principal {
+	padding: 20px 0;
+	margin-bottom: 50px;
+}
+
+.list-group {
+	margin-bottom: 30px;
+}
+
+.box {
+	padding: 50px;
+	text-align: center;
+	vertical-align: middle;
+	margin-bottom: 25px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-left: 2px solid #591df1;
+	box-shadow: 0px 15px 10px -15px rgba(82,63,105,0.1);
+	transition:all 0.3s ease;
+}
+
+.box:hover {
+	box-shadow: 0px 5px 5px 0px rgba(82,63,105,0.2);
+}
+
+.sombra {
+	background-color: #ffffff;
+	box-shadow: 0px 15px 10px -15px rgba(82,63,105,0.1);
+	margin-top: 56px;
+	z-index: 2;
+}
+
+h3.text-center{
+	margin-bottom: 25px !important;
+}
+
+.badge {
+	padding: 15px;
+}
+
+.footer-pad {
+	padding: 40px;
+}
+
+p.copy {
+	margin-bottom: 0 !important;
+}
+
+.list-group-item.active {
+    background-color: #591df1;
+    border-color: #591df1;
+}
+
+.btn-outline-primary {
+    color: #591df1;
+    border-color: #591df1;
+}
+
+.bread {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+footer a {
+	color: white;
+}
+
+.coordenador{
+
+	text-align: center!important;
+}
+
+footer a:hover {
+	font-weight: bold;
+	text-decoration: none;
+	color: white; 
+}
+
+.noticias {
+	text-align: justify;
+	background-color: #fff;
+	color: #000;
+	margin: 25px 0;	
+}
+
+.noticias a {
+	color: #591df1;
+}
+.noticias a:hover{
+	color: #591df1;
+}
+
+.footer-direita {
+	background-color: #591df1;
+	color: white;
+}
+
+.titulo-noticias {
+	color:#591df1;
+	padding: 15px;
+	text-align: center;
+	border-bottom: 1px dashed #591df1;
+}
+
+p {
+	margin-bottom: 0 !important;
+}
+
+.list-box {
+	padding: 25px;
+	text-align: center;
+	vertical-align: middle;
+	margin-bottom: 25px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-left: 2px solid #591df1;
+	box-shadow: 0px 15px 10px -15px rgba(82,63,105,0.1);
+	transition:all 0.3s ease;
+}
+
+.list-box:hover {
+	box-shadow: 0px 5px 5px 0px rgba(82,63,105,0.2);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #591df1;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	cursor: pointer;
+}

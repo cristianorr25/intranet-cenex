@@ -1,0 +1,97 @@
+
+
+.container {
+
+	padding: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+
+.cabecalho {
+	padding: 5px 10px 20px 0px;
+}
+
+img.logo-ufmg {
+
+	display: block;
+	position: fixed;
+	float: left;
+    top: 40px;
+	left: 500px;
+	
+}
+
+.sub-cabecalho {
+	border-left: 3px solid #a71e22;
+	padding-left: 10px;
+}
+
+h3.fao {
+	margin-bottom: 20px;
+}
+
+.titulo-laudo {
+	padding: 10px 0 15px 0;
+	text-align: center;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.texto-dados {
+	color: #666;
+}
+
+.texto-dados strong{
+	color: #333;
+}
+
+.paciente {
+	margin-bottom: 30px;
+	border-bottom: 1px dashed #a71e22;
+}
+
+.titulo {
+	padding: 10px;
+	border-bottom: 10px solid #eee;
+	border-left: 3px solid #a71e22;
+}
+
+.descricao {
+	margin-bottom: 50px;
+}
+
+.funcao{
+	position: fixed;
+	top: 1350px;
+	padding-top: 10px;
+}
+
+.rodape {
+	text-align: center;
+	border-top: 1px solid #eee;
+}
+
+.assinatura {
+	margin-top: 300px;
+}
+
+.data {
+	text-align: right;
+	text-decoration: italic;
+}
+
+
+.assinatura img{
+	display: block;
+	position: absolute;
+	top: 1270px;
+	left: 410px;
+	float: left;
+}
+
+.prof{
+	top: 1340px;
+	position: fixed;	
+}
